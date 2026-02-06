@@ -1,0 +1,8 @@
+
+{
+  "name": "Raigad Tourism",
+  "description": "Premium tourism platform for Raigad district, featuring smart route discovery, AI itineraries, and professional marketplace services.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
